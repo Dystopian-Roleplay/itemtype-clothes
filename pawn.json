@@ -5,13 +5,13 @@
 	"output": "test.amx",
 	"dependencies": [
 		"sampctl/samp-stdlib",
-		"Dystopian-Roleplay/item",
+		"Dystopian-Roleplay/item@2.0.0",
 		"pawn-lang/YSI-Includes",
-		"Dystopian-Roleplay/item-array-data",
-		"Dystopian-Roleplay/hold-action"
+		"Dystopian-Roleplay/item-array-data@2.0.0",
+		"Dystopian-Roleplay/hold-action@2.0.0"
 	],
 	"dev_dependencies": [
-		"Dystopian-Roleplay/test-boilerplate"
+		"Dystopian-Roleplay/test-boilerplate@2.0.0"
 	],
 	"runtime": {
 		"version": "0.3.7",
