@@ -5,13 +5,13 @@
 	"output": "test.amx",
 	"dependencies": [
 		"sampctl/samp-stdlib",
-		"ScavengeSurvive/item",
+		"Dystopian-Roleplay/item",
 		"pawn-lang/YSI-Includes",
-		"ScavengeSurvive/item-array-data",
-		"ScavengeSurvive/hold-action"
+		"Dystopian-Roleplay/item-array-data",
+		"Dystopian-Roleplay/hold-action"
 	],
 	"dev_dependencies": [
-		"ScavengeSurvive/test-boilerplate"
+		"Dystopian-Roleplay/test-boilerplate"
 	],
 	"runtime": {
 		"version": "0.3.7",
